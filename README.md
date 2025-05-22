@@ -16,7 +16,7 @@ You’ll learn how to use:
 - OpenWebUI (a GUI for your AI)
 - Docker (for containerized, clean setup)
 
-### 👉 [Download the full setup guide (PDF)](./tree/main/Setting%20Up%20My%20Own%20Private%20AI%20Chatbot.pdf)
+### 👉 [Download the full setup guide (PDF)](./Setting%20Up%20My%20Own%20Private%20AI%20Chatbot.pdf)
 
 
 ---
